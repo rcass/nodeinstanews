@@ -22,7 +22,7 @@ ehthumbs.db
 
 # Ignore packages #
 # =============== #
-
+node_modules/
 
 # Ignore API Keys
 # apikeys
